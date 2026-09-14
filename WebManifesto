@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html Lang="en">
+
+<head>
+    <meta charset="uft-8"
+    <Title>My Manifesto</TITLE>
+
+    <link href="https://fonts.googleapis.com/css2?family=Creepster&family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
+</head>
+
+<style>
+    body {
+        font-family: 'Times New Roman', arial, sans-serif;
+        background: linear-gradient(to left, #77bec4, #d3d3d3);
+        color: black;
+        margin: 40px;
+    }
+
+    div {
+        font-weight: bold;
+        font-size: 70px;
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+
+    h1 {
+        color: rgb(23, 52, 78);
+        font-weight: bold;
+        font-size: 170px;
+        letter-spacing: 10px;
+        margin-top: 35px;
+        margin-bottom: 35px;
+        text-align: center;
+    }
+
+    .wonderful {
+        font-family: "dancing script", cursive;
+    }
+    
+    .scary {
+        font-family: "creepster", cursive;
+    }
+
+    .points {
+        font-size: 15px;
+        color: black;
+        font-weight: normal;
+        letter-spacing: normal;
+    }
+
+    p {
+        color: #424242;
+        font-weight: lighter;
+        font-size: 20px;
+        letter-spacing: 5px;
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+
+</style>
+
+<body>
+    <h1>
+        the web is a
+        <span class="wonderful">Wonderful</span>,
+        <span class="scary">Scary</span>
+    place
+
+
+</h1>
+    <p>the web is a wonderful, scary place. growing up i was often told to be careful when on the internet, however i also learned that when i was on the internet i did well in school because of the internet. because of this, i learned that the internet is a great place for people to express ones creativity. Whilst growing up in the age where technology was beginning to evolve more and more (and basically growing up with me), i learned that there were some safe spots on the internet for a child like me at the time... safe spots that actually allowed a young mind to grow and trive. because of these places, i wanted to create those same spots i had for others.</p>
+    <p>i think that in the right circumstances and with a positve creative outlook, this can be possible. since the internet has been created, we can see there has been multiple creaions on the web, and there has only been improvment since. </p>
+</body>
+
+<body1>
+    <p class="points">1: my central idea regarding this assignment is 'creativity'. i wanted to express the importance of creativity on the web and how it has positivly impacted us.</p>
+    <p class="points">2: it looks this way because this is my frist time making something like this and im trying to make this layout to where it looks appealing to the eye. but the main idea of the 'Wonderful' and 'Scary' is mainly so the viewr can get hooked to the reading. i might make it to where the 'wonderful'and the 'scary' are able to be interacteded with. </p>
+    <p class="points">3: the viwers experiences when looking at this should be up to interpretation</p>
+</body1>
+
+</html>
